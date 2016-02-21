@@ -1,7 +1,7 @@
 name: Lundy Way
 favicon: null
-layout_spectrum: 0.7238277327269316
-typography_spectrum: 0.72548
+layout_spectrum: 1
+typography_spectrum: 0.35486
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#030200'
-    - '#0a5d85'
-    - '#9ab4c3'
-    - '#d8e9f0'
-    - '#504540'
+    - '#000000'
+    - '#ffffff'
+    - '#777777'
+    - '#414141'
+    - '#84b878'
   brandStrength: 0.6835464695468545
   lightness: 0.3398650416638702
   saturation: 0.4342645248398185
